@@ -14,7 +14,7 @@ autenticados.
 - [Parando a aplicação](#parando-a-aplicação)
 - [Solução de problemas](#solução-de-problemas)
 - [Rotas da API](#rotas-da-api)
-- [Contruibuição](#contribuição)
+- [Contribuição](#contribuição)
 
 ## Pré-requisitos
 
